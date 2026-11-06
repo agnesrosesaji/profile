@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="burgundyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8C4058"/>
+      <stop offset="100%" stop-color="#681D35"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="26" fill="url(#burgundyGrad)"/>
+  <!-- College shield / search icon symbol -->
+  <path d="M50 20 L76 30 C76 56 50 76 50 76 C50 76 24 56 24 30 Z" fill="#F7F3EF" fill-opacity="0.2" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="48" cy="45" r="13" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+  <line x1="57" y1="55" x2="68" y2="66" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+</svg>
